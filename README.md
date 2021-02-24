@@ -1,4 +1,4 @@
-# epp_template
+# Project Template
 
 This project is a boiler plate for any new Pyspark projects for epp in Agatha. It houses the basic project structure that we should generally use.
 
